@@ -7,7 +7,7 @@
 -----------------------------------------
 使用方式:
 
-※ Assets/Projectpackage/ChineseHyphenation.rar (裡面有2019-LTS 版本與2020.1版本)
+        ※ Assets/Projectpackage/ChineseHyphenation.rar (裡面有2019-LTS 版本與2020.1版本)
 
 1. 需建立資料庫 (Mysql)，再到 Relevant information/MySql/corpus2.sql 檔案匯入資料庫。
 
