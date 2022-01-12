@@ -13,8 +13,8 @@
 
 2. EnterOnClick 腳本需修改資料庫連接參數: IP、database、password、port
 
-        new MySQLFunction(hort, id, passward, database, port);        
-        
+        new MySQLFunction(hort, id, passward, database, port); 
+             
 -----------------------------------------
 注意事項: 
 
